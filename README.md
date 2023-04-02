@@ -8,4 +8,4 @@
 |[CSES](https://github.com/kerong2002/CSES)|12|
 |[codeforces](https://github.com/kerong2002/codeforces)|1|
 |[CodeWars](https://github.com/kerong2002/Codewars)|1|
-|Total Solved|516|
+|**Total Solved**|516|
